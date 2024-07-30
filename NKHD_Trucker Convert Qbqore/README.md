@@ -5,12 +5,12 @@ https://github.com/Niknock/NKHD_Trucker
 # NKHD_Trucker Konversi ke QBCore
 Jika butuh bantuan bisa gabung discord saya : https://discord.gg/vwNCqnc5xJ
 
-## Deskripsi
-Skrip ini merupakan konversi dari NKHD_Trucker dari ESX ke QBCore. Skrip ini menambahkan fitur trucker atau kargo job ke dalam server QBCore Anda.
-
 ## Kontributor
 - Niknock HD
 - SukMaster
+
+## Deskripsi
+Skrip ini merupakan konversi dari SukMaster dari ESX ke QBCore. Skrip ini menambahkan fitur baru ke dalam server QBCore Anda.
 
 ## qb-core/client/functions.lua
 ## letakan kode ini di paling bawah
@@ -21,7 +21,7 @@ QBCore.Functions.ShowHelpNotification = function(message)
 end
 
 ### Dependensi
-https://github.com/EthanPeacock/progressBars/tree/master
+https://github.com/SukMaster/progressBars
 
 ## Lisensi
 MIT License
