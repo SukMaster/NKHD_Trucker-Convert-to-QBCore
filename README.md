@@ -3,6 +3,7 @@ This script is created by Niknock HD
 https://github.com/Niknock/NKHD_Trucker
 
 # NKHD_Trucker Konversi ke QBCore
+This script was converted by SukMaster
 Jika butuh bantuan bisa gabung discord saya : https://discord.gg/vwNCqnc5xJ
 
 ## Kontributor
@@ -10,7 +11,7 @@ Jika butuh bantuan bisa gabung discord saya : https://discord.gg/vwNCqnc5xJ
 - SukMaster
 
 ## Deskripsi
-Skrip ini merupakan konversi dari SukMaster dari ESX ke QBCore. Skrip ini menambahkan fitur baru ke dalam server QBCore Anda.
+Skrip ini merupakan konversi dari ESX ke QBCore. Skrip ini menambahkan fitur pekerjaan baru ke dalam server QBCore Anda.
 
 ## qb-core/client/functions.lua
 ## letakan kode ini di paling bawah
