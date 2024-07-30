@@ -6,7 +6,7 @@ https://github.com/Niknock/NKHD_Trucker
 Jika butuh bantuan bisa gabung discord saya : https://discord.gg/vwNCqnc5xJ
 
 ## Deskripsi
-Skrip ini merupakan konversi dari NKHD_Trucker dari ESX ke QBCore. Skrip ini menambahkan fitur trucker atau kargo job ke dalam server QBCore Anda.
+Skrip ini merupakan konversi dari SukMaster dari ESX ke QBCore. Skrip ini menambahkan fitur baru ke dalam server QBCore Anda.
 
 ## Kontributor
 - Niknock HD
