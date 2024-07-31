@@ -12,8 +12,7 @@ client_scripts {
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua', -- Updated to use oxmysql
-    'server.lua',
-    'update.lua'
+    'server.lua'
 }
 
 shared_scripts {
