@@ -2,6 +2,8 @@
 This script is created by Niknock HD
 https://github.com/Niknock/NKHD_Trucker
 
+preview : https://youtu.be/FZJlREEHa6M?si=r49lhTlo6guk5X97
+
 # NKHD_Trucker Konversi ke QBCore
 This script was converted by SukMaster
 Jika butuh bantuan bisa gabung discord saya : https://discord.gg/vwNCqnc5xJ
